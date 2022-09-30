@@ -1,0 +1,68 @@
+City,Population,Region,Latitude,Longitude
+Casablanca,3359818,Casablanca-Settat,33°32′N,7°35′W
+Fez,1112072,Fès-Meknès,34°02′36″N,05°00′12″W
+Tangier,947952,Tanger-Tetouan-Al Hoceima,35°46′36″N,05°48′14″W
+Marrakesh,928850,Marrakesh-Safi,31°37′48″N,8°0′32″W
+Salé,890403,Rabat-Salé-Kénitra,34°02′N,6°48′W
+Meknes,632079,Fès-Meknès,33°53′42″N,5°33′17″W
+Rabat,577827,Rabat-Salé-Kénitra,34°02′N,6°50′W
+Oujda,494252,Oriental,34°41′21″N,1°54′41″W
+Kenitra,431282,Rabat-Salé-Kénitra,34°15′N,6°35′W
+Agadir,421844,Souss-Massa,30°26′N,9°36′W
+Tetouan,380787,Tanger-Tetouan-Al Hoceima,35°34′N,5°22′W
+Temara,313510,Rabat-Salé-Kénitra,33°55′36″N,6°54′44″W
+Safi,308508,Marrakesh-Safi,32°17′N,9°14′W
+Mohammedia,208612,Casablanca-Settat,33°41′N,7°23′W
+Khouribga,196196,Béni Mellal-Khénifra,32°53′N,6°55′W
+El Jadida,194934,Casablanca-Settat,33°14′N,8°30′W
+Beni Mellal,192676,Béni Mellal-Khénifra,32°20′22″N,6°21′39″W
+Aït Melloul,171847,Souss-Massa,30°20′03″N,9°29′50″W
+Nador,161727,Oriental,35°10′0″N,02°56′0″W
+Dar Bouazza,151373,Casablanca-Settat,33°31′N,7°49′W
+Taza,148456,Fès-Meknès,34°13′N,4°1′W
+Settat,142250,Casablanca-Settat,33°0′N,7°37′W
+Berrechid,136634,Casablanca-Settat,33°16′N,7°35′W
+Khemisset,131542,Rabat-Salé-Kénitra,33°49′N,6°04′W
+Inezgane,130333,Souss-Massa,30°21′57″N,9°32′17″W
+Ksar El Kebir,126617,Tanger-Tetouan-Al Hoceima,34°59′56″N,5°54′10″W
+Larache,125008,Tanger-Tetouan-Al Hoceima,35°11′N,6°9′W
+Guelmim,118318,Guelmim-Oued Noun,28°59′N,10°04′W
+Khenifra,117510,Béni Mellal-Khénifra,32°56′22″N,5°40′3″W
+Berkane,109237,Oriental,34°55′N,2°19′W
+Taourirt,103398,Oriental,34°25′1″N,2°53′6″W
+Bouskoura,103026,Casablanca-Settat,33°26′56″N,7°38′55″W
+Fquih Ben Salah,102019,Béni Mellal-Khénifra,32°30′00″N,06°32′00″W
+Dcheira El Jihadia,100336,Souss-Massa,30°22′22″N,9°32′20″W
+Oued Zem,95267,Béni Mellal-Khénifra,32°52′N,6°34′W
+El Kelaa Des Sraghna,95224,Marrakesh-Safi,32°2′53″N,7°24′30″W
+Sidi Slimane,92989,Rabat-Salé-Kénitra,34°13′N,5°42′W
+Errachidia,92374,Drâa-Tafilalet,31°55′55″N,4°25′28″W
+Guercif,90880,Oriental,34°14′N,3°22′W
+Oulad Teima,89387,Souss-Massa,30°24′N,9°13′W
+Ben Guerir,88626,Marrakesh-Safi,32°14′34.82″N,7°57′34.54″W
+Tifelt,86709,Rabat-Salé-Kénitra,33°53′35″N,6°18′25″W
+Lqliaa,83235,Souss-Massa,30°17′27″N,9°27′58″W
+Taroudant,80149,Souss-Massa,30°28′15.59″N,8°52′50.16″W
+Sefrou,79887,Fès-Meknès,33°49′45.68″N,4°50′22.12″W
+Essaouira,77966,Marrakesh-Safi,31°30′47″N,9°46′11″W
+Fnideq,77436,Tanger-Tetouan-Al Hoceima,35°51′N,5°21′W
+Sidi Kacem,75672,Rabat-Salé-Kénitra,34°13′N,5°42′W
+Tiznit,74699,Souss-Massa,29°43′N,9°43′W
+Tan-Tan,73209,Guelmim-Es Semara,28°26′N,11°06′W
+Ouarzazate,71067,Drâa-Tafilalet,30°55′N,6°55′W
+Souk El Arbaa,69265,Rabat-Salé-Kénitra,34°40′48″N,05°58′48″W
+Youssoufia,67628,Marrakesh-Safi,32°15′N,8°32′W
+Lahraouyine,64821,Casablanca-Settat,33°32′45″N,7°31′02″W
+Martil,64355,Tanger-Tetouan-Al Hoceima,35°37′N,5°16′W
+Ain Harrouda,62420,Casablanca-Settat,33°38′14″N,7°26′54″W
+Suq as-Sabt Awlad an-Nama,60076,Béni Mellal-Khénifra,32°17′41″N,6°42′03″W
+Skhirat,59775,Rabat-Salé-Kénitra,33°51′0″N,7°01′48″W
+Ouazzane,59606,Tanger-Tetouan-Al Hoceima,34°48′N,5°35′W
+Benslimane,57101,Casablanca-Settat,33°37′N,7°7′W
+Al Hoceima,56716,Tanger-Tetouan-Al Hoceima,35°14′50″N,3°55′56″W
+Beni Ansar,56582,Oriental,35°15′40″N,2°55′51″W
+M'diq,56227,Tanger-Tetouan-Al Hoceima,35°41′9″N,5°19′31″W
+Sidi Bennour,55815,Casablanca-Settat,32°39′N,8°26′W
+Midelt,55304,Drâa-Tafilalet,32°40′48″N,4°43′48″W
+Azrou,54350,Fès-Meknès,33°26′30″N,5°13′29″W
+Drargua,50946,Souss-Massa,30°23′N,9°29′W
