@@ -3,6 +3,4 @@ matplotlib==3.6.0
 numpy==1.23.3
 pandas==1.5.0
 plotly==5.10.0
-scrapper==0.9.5
 streamlit==1.13.0
-v2==1.0.7

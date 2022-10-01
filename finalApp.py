@@ -12,7 +12,7 @@ st.set_page_config(layout='wide')
 c1, c2, c3 = st.columns(3)
 
 
-c3.image('../mar_flag.png', width=400)
+c3.image('./Data/mar_flag.png', width=400)
 c1.markdown('<h1 style="text-align:center;color:#694C4C;font-weight:bolder;font-size:70px;">MOROCCO 101</h1>',unsafe_allow_html=True)
 # st.markdown('<h2 style="text-align:center;color:;">An analysis..</h2>',unsafe_allow_html=True)
 st.markdown("#### This is an analysis based project on the population and crops production in Morocco")
@@ -136,7 +136,7 @@ if code=='OA':
 
 
   ##################################################################################
-  elif element=='Urban vs Rural':
+  elif element=='Urban vs Rural': 
     L=['Urban','Rural']
     dff=df.query('Element in @L').query(f"Year.between{yrs}")
     st.dataframe(dff,use_container_width=True)
